@@ -79,8 +79,8 @@
     <source media="(prefers-color-scheme: dark)" 
             srcset="https://streak-stats.demolab.com?user=Sleepy-C&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" />
     <source media="(prefers-color-scheme: light)" 
-            srcset="https://streak-stats.demolab.com?user=Sleepy-C&locale=en&mode=daily&theme=light&hide_border=false&border_radius=5&order=3" />
-    <img src="https://streak-stats.demolab.com?user=Sleepy-C&locale=en&mode=daily&theme=light&hide_border=false&border_radius=5&order=3" 
+            srcset="https://streak-stats.demolab.com?user=Zaaruiii &locale=en&mode=daily&theme=light&hide_border=false&border_radius=5&order=3" />
+    <img src="https://streak-stats.demolab.com?user=Zaaruiii &locale=en&mode=daily&theme=light&hide_border=false&border_radius=5&order=3" 
          alt="streak graph" height="220" />
   </picture>
 </div>
